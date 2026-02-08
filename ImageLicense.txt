@@ -1,0 +1,22 @@
+Yelena Store - Image Assets License Summary
+================================================
+SPDX-License-Identifier: GPL-3.0-or-later
+
+The Yelena Store project uses images from various sources. 
+While the project overall is licensed under GPLv3, individual assets 
+retain their original licenses as detailed below.
+
+---
+
+1. ORIGINAL WORK (CC-BY-SA 4.0)
+------------------------------
+Created exclusively for CuerdOS GNU/Linux.
+
+Author: Leo H. Perez (@gatoverde95)
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)
+Link: https://creativecommons.org/licenses/by-sa/4.0/
+
+Files:
+- yel-store.png
+
+---
