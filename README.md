@@ -1,2 +1,2 @@
-# Yelena-Store
-Application manager for CuerdOS, beautiful, fast, and easy to use.
+# Yelena Software Center
+Software Center for CuerdOS, beautiful, fast, and easy to use.
